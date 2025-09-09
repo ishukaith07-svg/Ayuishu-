@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Click Me ❤️</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: pink;
+      font-family: Arial, sans-serif;
+    }
+    a {
+      font-size: 2em;
+      color: white;
+      text-decoration: none;
+      background: red;
+      padding: 15px 30px;
+      border-radius: 20px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+      transition: 0.3s;
+    }
+    a:hover {
+      background: darkred;
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
+  <a href="love.html">Click Here 💌</a>
+</body>
+</html>
